@@ -1,5 +1,6 @@
 # Full-stack-bootcamp-2024
-Skill development learning for becoming a job-ready full-stack developer.
+Skill development for becoming a job-ready full-stack developer. The course covers a wide range of topics, including front-end and back-end development, with technologies like HTML, CSS, JavaScript, React, Node.js, databases, and Git for version control. The program focuses on practical learning through projects to prepare students for real-world jobs. I am currently taking this course to improve my skills and become a skilled full-stack developer.
+
 
 ### Category 1: Basics of Front-End Development  
 - **Section 1: Front-End Web Development**  
